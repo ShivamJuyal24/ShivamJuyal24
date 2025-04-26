@@ -12,7 +12,7 @@
 - 💡 Enthusiastic about writing clean, efficient, and maintainable code  
 - 🔍 Always eager to learn new technologies and tackle new challenges  
 - 🤝 Open to collaboration on open-source projects and exciting new ideas  
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-username/)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/shivam-juyal-034273219/)
 ---
 ## 🛠️ Tech Stack
 

@@ -52,17 +52,4 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShivamJuyal24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamJuyal24&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamJuyal24&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 <p align="center"><i>Thanks for stopping by — always happy to connect and collaborate 👨‍💻</i></p>

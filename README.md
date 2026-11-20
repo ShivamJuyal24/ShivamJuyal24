@@ -92,12 +92,15 @@ I like taking products **from zero to working software** — from the API and da
 
 Built the graph-generation backend for a **Claude Code slash command**, combining a codebase dependency graph with hybrid semantic + keyword retrieval. Implemented incremental, event-driven re-indexing that **reduced compute and LLM token usage by an estimated 75–80%** for typical changes; prompt enrichment ran in **under 15 seconds on a 500-file repository**. Also debugged production Node.js APIs and MongoDB services.
 
+
 ### `04 / open source`
 
 | Project | Contribution | Pull request |
 | :-- | :-- | :-- |
+| **[Endora Commerce](https://github.com/endora-commerce/endora-commerce)** | Fixed deferred-payment credit release with transaction-safe, idempotent settlement handling, durable retries, and regression tests. | **[PR #1675 · Merged](https://github.com/endora-commerce/endora-commerce/pull/1675)** |
 | **[flisk-tools](https://github.com/flisk-sh/flisk-tools)** | Fixed trailing-slash 404s in Cloudflare Workers/Hono; preserved query strings. **168 tests passing.** | **[PR #47 · Merged](https://github.com/flisk-sh/flisk-tools/pull/47)** |
 | **[MATE](https://github.com/antiv/mate)** | Added Python/FastAPI auth-route return annotations, backed by contract tests. | **[PR #383 · Merged](https://github.com/antiv/mate/pull/383)** |
+
 
 ### `05 / tools of the trade`
 

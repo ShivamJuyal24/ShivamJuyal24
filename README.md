@@ -1,91 +1,133 @@
-<h1 align="center">Hi, I'm Shivam Juyal 👋</h1>
-<h3 align="center">Full Stack / Backend Developer — building AI-powered developer tools & scalable systems</h3>
+<!-- SHIVAM JUYAL • GITHUB PROFILE -->
+<!-- Palette: ink #0B0B10 | crimson #A21517 | cream #F6E9E8 | lime #E5EE4E -->
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shivam-juyal-034273219/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:shivamjuyal.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.npmjs.com/package/@the-white-wolf/ai-commit"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"></a>
+<div align="center">
+
+<a href="https://github.com/ShivamJuyal24">
+  <img width="100%" alt="Shivam Juyal — Backend Engineer & AI Builder" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B10,55:531017,100:A21517&height=230&section=header&text=Shivam%20Juyal&fontSize=66&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=BACKEND%20ENGINEER%20%20%E2%80%A2%20%20AI%20SYSTEMS%20%20%E2%80%A2%20%20OPEN%20SOURCE&descSize=17&descAlignY=59&descColor=F6E9E8" />
+</a>
+
+<img width="95%" alt="Building useful software, one commit at a time" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2600&pause=1300&color=E5EE4E&center=true&vCenter=true&width=850&height=44&lines=%24+building+reliable+backends+%26+AI+agents;%24+shipping+developer+tools+people+use;%24+learning+in+public+%2F%2F+open+source" />
+
+<p>
+  <a href="https://www.linkedin.com/in/shivamjuyal24/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-A21517?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:shivamjuyal.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-A21517?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/ShivamJuyal24?tab=repositories"><img alt="Projects" src="https://img.shields.io/badge/Explore%20my%20work-0B0B10?style=for-the-badge&logo=github&logoColor=E5EE4E" /></a>
 </p>
 
-<p align="center">
-  <a href="https://discord.gg/qMu5Xn8Kaq"><img src="https://img.shields.io/static/v1?label=%E2%9A%A1%20FOUNDING%20CONTRIBUTOR&message=%2322%20of%20100%20%E2%80%A2%20%40ShivamJuyal24&color=06b6d4&labelColor=07080f&style=for-the-badge" alt="Founding Contributor #22 @ShivamJuyal24"></a>
-</p>
+<img alt="1,800+ npm downloads" src="https://img.shields.io/badge/1%2C800%2B-npm%20downloads-E5EE4E?style=flat-square&labelColor=17171D" />
+<img alt="175 automated tests in Inflow" src="https://img.shields.io/badge/175-automated%20tests-E5EE4E?style=flat-square&labelColor=17171D" />
+<img alt="1,000+ DSA problems" src="https://img.shields.io/badge/1%2C000%2B-DSA%20problems-E5EE4E?style=flat-square&labelColor=17171D" />
+
+</div>
 
 ---
 
-## 🧭 About Me
+### `01 / about me`
 
-I build AI-powered full-stack tools and backend systems, with a focus on developer experience.
+```ts
+const shivam = {
+  role: "Backend / Full-Stack Engineer",
+  location: "India",
+  interests: ["AI agents", "RAG", "developer experience", "distributed systems"],
+  workingWith: ["TypeScript", "Node.js", "Python", "PostgreSQL", "Redis"],
+  previously: "MERN Developer Intern @ Webrex Studio",
+  education: "B.Tech CSE · Graphic Era Hill University · 2025",
+  openTo: "Backend / Software Engineering opportunities",
+};
+```
 
-- 💼 **MERN Stack Developer Intern** at **Webrex Studio** — built RAG pipelines and a Claude Code slash command for AI-assisted coding
-- 🔭 **Currently building** AI-powered full-stack tools (RAG, agentic workflows) with Next.js, Node.js, and LLMs like Groq and Gemini
-- 📦 **Published** [`@the-white-wolf/ai-commit`](https://www.npmjs.com/package/@the-white-wolf/ai-commit) on npm — 1800+ downloads
-- 🏆 **Problem solving** — 1000+ DSA problems solved, peak LeetCode rating 1700+
-- 🤝 **Open to** collaborating on open-source AI tooling and full-stack projects
+I like taking products **from zero to working software** — from the API and database to the queue, tests, deployment, and the edge cases in between. Lately I've been working at the intersection of **backend engineering, AI workflows, and developer tooling**.
 
----
-
-## 🌟 Open Source
-
-| Recognition | Details |
-| --- | --- |
-| ⚡ **Founding Contributor #22 of 100** | Earned by contributing to an open-source project — [join the community](https://discord.gg/qMu5Xn8Kaq) |
-| 📦 **ai-commit** | AI-generated commit messages CLI, published on [npm](https://www.npmjs.com/package/@the-white-wolf/ai-commit) |
-
----
-
-## 🛠️ Tech Stack
+### `02 / selected work`
 
 <table>
   <tr>
-    <td><b>Languages</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
+    <td width="50%" valign="top">
+      <h3>📚 <a href="https://github.com/ShivamJuyal24/Quill">Quill</a></h3>
+      <sub><b>RAG PDF Q&A · Retrieval evaluation</b></sub>
+      <p>Document Q&A with asynchronous ingestion, hybrid search, Cohere re-ranking, and Groq → Gemini model failover.</p>
+      <p><b>54% → 80% hit@1</b> on a 50-question golden set; <b>92.7% answer faithfulness</b>.</p>
+      <p><code>Next.js</code> <code>Python</code> <code>pgvector</code> <code>BullMQ</code></p>
+      <a href="https://quill-pink-xi.vercel.app/"><img alt="Live demo" src="https://img.shields.io/badge/Live%20demo-A21517?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+      <a href="https://github.com/ShivamJuyal24/Quill"><img alt="Source code" src="https://img.shields.io/badge/Source-24232A?style=for-the-badge&logo=github&logoColor=white" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📨 <a href="https://github.com/ShivamJuyal24/inflow">Inflow</a></h3>
+      <sub><b>Human-in-the-loop Gmail agent</b></sub>
+      <p>LangGraph agent that classifies email, prepares replies, and schedules meetings — with explicit approval and idempotent processing.</p>
+      <p><b>88% classification accuracy</b> on 200 emails; <b>175 Vitest tests</b>.</p>
+      <p><code>TypeScript</code> <code>LangGraph</code> <code>OAuth 2.0</code> <code>Vitest</code></p>
+      <a href="https://github.com/ShivamJuyal24/inflow"><img alt="Source code" src="https://img.shields.io/badge/Explore%20repo-A21517?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
   </tr>
   <tr>
-    <td><b>Frameworks</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
-      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express">
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">
+    <td width="50%" valign="top">
+      <h3>☁️ <a href="https://github.com/ShivamJuyal24/PushCloud">PushCloud</a></h3>
+      <sub><b>Multi-tenant deployment platform</b></sub>
+      <p>Deploys React/Vite apps with isolated Docker builds, reverse-proxy routing, and tenant-isolated real-time logs.</p>
+      <p><b>10 concurrent builds</b> load-tested; security tests blocked <b>39/39 unauthorized attempts</b>.</p>
+      <p><code>Docker</code> <code>Node.js</code> <code>Socket.IO</code> <code>Redis</code></p>
+      <a href="https://www.loom.com/share/779a4de2ae9c4e9383ea60edf0575e5b"><img alt="Watch demo" src="https://img.shields.io/badge/Watch%20demo-A21517?style=for-the-badge&logo=loom&logoColor=white" /></a>
+      <a href="https://github.com/ShivamJuyal24/PushCloud"><img alt="Source code" src="https://img.shields.io/badge/Source-24232A?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
-  </tr>
-  <tr>
-    <td><b>Databases</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
-    </td>
-  </tr>
-  <tr>
-    <td><b>Cloud & DevOps</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS">
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://www.npmjs.com/package/@the-white-wolf/ai-commit">ai-commit</a></h3>
+      <sub><b>Open-source AI CLI · npm</b></sub>
+      <p>A lightweight CLI that reads Git diffs and generates useful commit messages with Groq.</p>
+      <p>Published as <code>@the-white-wolf/ai-commit</code> with <b>1,800+ downloads</b>.</p>
+      <p><code>Node.js</code> <code>CLI</code> <code>Groq</code> <code>npm</code></p>
+      <a href="https://www.npmjs.com/package/@the-white-wolf/ai-commit"><img alt="View npm package" src="https://img.shields.io/badge/View%20on%20npm-A21517?style=for-the-badge&logo=npm&logoColor=white" /></a>
     </td>
   </tr>
 </table>
 
+<div align="center">
+  <a href="https://github.com/ShivamJuyal24?tab=repositories"><b>More projects →</b></a>
+</div>
+
+### `03 / experience`
+
+**MERN Developer Intern · Webrex Studio** <sub>Jan – Mar 2026 · Remote</sub>
+
+Built the graph-generation backend for a **Claude Code slash command**, combining a codebase dependency graph with hybrid semantic + keyword retrieval. Implemented incremental, event-driven re-indexing that **reduced compute and LLM token usage by an estimated 75–80%** for typical changes; prompt enrichment ran in **under 15 seconds on a 500-file repository**. Also debugged production Node.js APIs and MongoDB services.
+
+### `04 / open source`
+
+| Project | Contribution | Pull request |
+| :-- | :-- | :-- |
+| **[flisk-tools](https://github.com/flisk-sh/flisk-tools)** | Fixed trailing-slash 404s in Cloudflare Workers/Hono; preserved query strings. **168 tests passing.** | **[PR #47 · Merged](https://github.com/flisk-sh/flisk-tools/pull/47)** |
+| **[MATE](https://github.com/antiv/mate)** | Added Python/FastAPI auth-route return annotations, backed by contract tests. | **[PR #383 · Merged](https://github.com/antiv/mate/pull/383)** |
+
+### `05 / tools of the trade`
+
+<div align="center">
+
+<img alt="Languages, frameworks, databases and developer tools" src="https://skillicons.dev/icons?i=ts,js,py,cpp,nodejs,express,nextjs,react,postgres,mongodb,redis,docker,aws,git,github,githubactions&perline=8&theme=dark" />
+
+<br />
+
+<sub><b>Also working with:</b> LangGraph · pgvector · BullMQ · Socket.IO · Vitest · OAuth 2.0 · RAG & LLM evaluations</sub>
+
+</div>
+
+<details>
+  <summary><b>📈 GitHub stats</b></summary>
+  <br />
+  <div align="center">
+    <img height="165" alt="GitHub statistics" src="https://github-readme-stats-three-alpha-83.vercel.app/api?username=ShivamJuyal24&show_icons=true&theme=radical&hide_border=true" />
+    <img height="165" alt="Contribution streak" src="https://streak-stats.demolab.com/?user=ShivamJuyal24&theme=radical&hide_border=true" />
+  </div>
+</details>
+
 ---
 
-## 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats-three-alpha-83.vercel.app/api?username=ShivamJuyal24&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=ShivamJuyal24&theme=radical&hide_border=true" alt="GitHub streak" />
-</p>
+**Have an interesting backend problem, AI idea, or open-source project?**
 
-<p align="center">
-  <img src="https://github-readme-stats-three-alpha-83.vercel.app/api/top-langs/?username=ShivamJuyal24&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
-</p>
+<a href="mailto:shivamjuyal.dev@gmail.com"><img alt="Get in touch" src="https://img.shields.io/badge/Let's%20build%20something-A21517?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
----
+<img width="100%" alt="Build thoughtfully. Ship often." src="https://capsule-render.vercel.app/api?type=waving&color=0:A21517,55:531017,100:0B0B10&height=115&section=footer&text=build%20thoughtfully.%20ship%20often.&fontSize=23&fontColor=FFFFFF&fontAlignY=67" />
 
-<p align="center"><i>Thanks for stopping by — always happy to connect and collaborate 👨‍💻</i></p>
+</div>
